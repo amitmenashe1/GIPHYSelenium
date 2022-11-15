@@ -1,2 +1,2 @@
 # GIPHYSelenium
-Automating Login and file uploading using Selenium in Python :)
+Automating Logging in and uploading a file to a website using Selenium in Python :)
